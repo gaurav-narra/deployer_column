@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l:dependencies xmlns:l='licenses' groupId='plugin' artifactId='deployer_column' version='1.0-SNAPSHOT'><l:dependency name='deployer_column' groupId='plugin' artifactId='deployer_column' version='1.0-SNAPSHOT' url='http://jenkins-ci.org/plugin/deployer_column/'><l:description/></l:dependency><l:dependency name='Java Native Access' groupId='net.java.dev.jna' artifactId='jna' version='3.2.2' url=''><l:description/></l:dependency></l:dependencies>
